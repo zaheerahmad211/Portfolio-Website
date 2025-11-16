@@ -125,11 +125,11 @@ const Contact = () => {
             .contact-form {
               padding: 20px;
             }
-              
           }
         `}
       </style>
-       <div className="contact-container" id="contact">
+
+      <div className="contact-wrapper">
         <div className="contact-info">
           <h2>Contact Information</h2>
           <p><FaPhoneAlt /> +92 300 1234567</p>
